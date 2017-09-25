@@ -11,10 +11,10 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.2"
   },
   "engines": {
-    "node": "8.x"
+    "node": "6.10.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/welcome-project"
